@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am trying to become junior developer
+I am junior developer (C#/.Net)
 
 I live near Gdynia - Gdańsk / Poland.
-- 🌱 I’m currently learning C#/.NET
+- 🌱  still learning new skills about C#/.NET
 
 - 📫 How to reach me: @mail: mar.sav.rzrv@gmail.com
 
