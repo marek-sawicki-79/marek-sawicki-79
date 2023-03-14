@@ -3,7 +3,7 @@
 I am junior developer (C#/.Net)
 
 I live near Gdynia - Gdańsk / Poland.
-- 🌱  still learning new skills about C#/.NET
+- 🌱  still learning new skills in C#/.NET
 
 - 📫 How to reach me: @mail: mar.sav.rzrv@gmail.com
 
